@@ -1,8 +1,0 @@
-APP [TEMA] 2.0
-
-O aplicativo apresenta:
-- Tela de carregamento;
-- Tela de login;
-- Tela de alteração de senha;
-- Tela de cadastro de usuário;
-- Tela de menu;
